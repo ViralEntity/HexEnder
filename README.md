@@ -1,6 +1,6 @@
 # HexEnder
 
- <img src="images/HexE6_Plate.png" alt="HexE6">
+ <img src="Images/HexE6_Plate.png" alt="HexE6">
 
 This is a project to add the amazing HextrudORT to the Creality Ender 6. This is a DIY, lightweight alternative to other direct drive options currently being modified to fit the Ender 6. The purpose was to end up with a fully enclosed, fast and accurate, Nylon and PC capable printer built upon what is already a brilliant printer. 
 
